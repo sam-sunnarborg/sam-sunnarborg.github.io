@@ -1,8 +1,3 @@
----
-title: Your Page Title
-layout: default
----
-
 ## My Analysis
 A search for a dark matter candidate at the CMS Experiment
 
