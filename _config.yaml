@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Sam's homepage
 description: A family friendly introduction to my work!
+
+header_pages:
+  - Home/AboutMe.md
+  - MyAnalysis/Analysis.md
+  - Physics 101/ParticlePhysics.md
