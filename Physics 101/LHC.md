@@ -1,12 +1,12 @@
-## The Large Hadron Collider
+# The Large Hadron Collider
 the motivation and technology behind the world's largest machine.
 
-# What is the Large Hadron Collider?
+## What is the Large Hadron Collider?
 The Large Hadron Collider (LHC) is a 27 kilometer circumference (17 miles for us Americans) circular particle collider that was build 100 meters underground in Geneva, Switzerland. The collider itself consists of a tube (shown at the top of this page) that contains two beam pipes. One of the beams of particles travels clockwise around the 27km ring, and at the same time the other travels counter-clockwise. They are then directed to collide at one of the four collision points. These collision points are where the magic happens!  
 
 [Above Ground LHC](images/image.png)
 
-# Why Build the Large Hadron Collider?
+## Why Build the Large Hadron Collider?
 We want to understand what the universe is made of! As discussed in the Particle Physics section, we have a very successful theory called the Standard Model. This describes all of the particles we have found and all of the characteristics we know about them. Things like their mass, their electric charge, how they interact with each other. But there are gaps. There are things we have observed in the universe that don't yet fit in the Standard Model, so we know it is incomplete. Two of the most famous examples of this are gravity and dark matter. 
 We of course know that gravity exists, just try dropping that bowling ball on your foot and see if you agree, but we don't know how it fits into the Standard Model. Maybe it has its own particle called a graviton that someday will be added in. Some people at the LHC are looking for the graviton! Maybe gravity isn't a particle or a force at all and we need a new way to describe it. 
 Another mystery is dark matter. In the 1960s and 70s an astronomer named Vera Rubin was modeling how fast different stars in the Milky Way should be orbiting the center of our galaxy. When she went and measured how fast stuff was actually moving it was too fast! This is because she was making her guess based off the mass we could see and knew was there. The only way to explain this is there is a lot of mass in the Milky Way that we cannot see, and we call this dark matter. 
