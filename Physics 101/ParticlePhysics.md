@@ -1,5 +1,5 @@
 # Particle Physics
-## the context on the successful yet incomplete theory from start to finish
+the context on the successful yet incomplete theory from start to finish
 
 In the late 1800s chemists were building the periodic table after realizing all these different gases they were studying had a real nice pattern to them. They were organizing them by by weight and valence charge which they realized were a result of these different gases being made up of different numbers of smaller pieces: protons and electrons (and neutrons too). All of the different elements they were discovering were really just combinations of smaller particles. So in the 1900s when physicists were discovering new small particles and organizing them they took inspiration from the chemists a century earlier and realized all of these different particles they were discovering were really just combinations of smaller particles: quarks. They then organized these new smaller particles into our own table: the Standard Model.
 
