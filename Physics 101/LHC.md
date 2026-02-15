@@ -1,3 +1,8 @@
+---
+title: LHC
+layout: default
+---
+
 # The Large Hadron Collider
 the motivation and technology behind the world's largest machine.
 
