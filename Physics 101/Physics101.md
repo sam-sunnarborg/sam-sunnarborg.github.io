@@ -1,5 +1,5 @@
 # Physics 101
-## An approachable introduction to the cool physics no one ever explains to normal people
+An approachable introduction to the cool physics no one ever explains to normal people
 
 ## [Particle Physics](ParticlePhysics.md)
 ### the context on the successful yet incomplete theory from start to finish
