@@ -1,3 +1,8 @@
+---
+title: Particle Physics
+layout: default
+---
+
 # Particle Physics
 the context on the successful yet incomplete theory from start to finish
 
