@@ -1,3 +1,8 @@
+---
+title: Physics 101
+layout: default
+---
+
 # Physics 101
 An approachable introduction to the cool physics no one ever explains to normal people
 
