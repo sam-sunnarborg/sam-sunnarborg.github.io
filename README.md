@@ -4,9 +4,9 @@ A family friendly description of my current analysis project. Includes full cont
 
 ## Pages
 
-[Home](AboutMe.md)
+[Home](AboutMe.md): a jumping off point
 
-[Physics 101](Physics101.md)
+[Physics 101](Physics101.md): an introduction to the cool physics
 
-[My Analysis](Analysis.md)
+[My Analysis](Analysis.md): an overview of my analysis project
 
