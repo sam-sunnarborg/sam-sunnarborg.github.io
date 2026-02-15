@@ -1,3 +1,8 @@
+---
+title: CMS
+layout: default
+---
+
 # The Compact Muon Solenoid
 the world's most powerful magnet and how we use it to discover new particles.
 
