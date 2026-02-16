@@ -6,7 +6,7 @@ A family friendly description of my current analysis project. Includes full cont
 
 [Home](Home/AboutMe.md): a jumping off point
 
-[Physics 101](Physics 101/Physics101.md): an introduction to the cool physics
+[Physics 101](Physics101/Physics101.md): an introduction to the cool physics
 
 [My Analysis](MyAnalysis/Analysis.md): an overview of my analysis project
 
