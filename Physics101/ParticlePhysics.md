@@ -8,7 +8,7 @@ the context on the successful yet incomplete theory from start to finish
 
 In the late 1800s chemists were building the periodic table after realizing all these different gases they were studying had a real nice pattern to them. They were organizing them by by weight and valence charge which they realized were a result of these different gases being made up of different numbers of smaller pieces: protons and electrons (and neutrons too). All of the different elements they were discovering were really just combinations of smaller particles. So in the 1900s when physicists were discovering new small particles and organizing them they took inspiration from the chemists a century earlier and realized all of these different particles they were discovering were really just combinations of smaller particles: quarks. They then organized these new smaller particles into our own table: the Standard Model.
 
-![Standard Model](images/photo.png)
+![Standard Model](../images/standardmodel.png)
 
 Here you should note our friend the electron, a fundamental particle (not made up of other particles) as far as we can tell. You should also note the lack of the proton. The same way you don't see water (H20) on the periodic table, the proton won't appear on the Standard Model. A proton is made of two up quarks and one down quark (uud), similar to how Hydrogen is one proton and one electron. The proton is a composite particle (made of multiple fundamental particles). You can also build the dozens of other composite particles we know of using these quarks in either groups of two like the pion (ud) or three like the proton (uud).
 
@@ -18,7 +18,9 @@ Also note how we've only talked about the first column. For example it's not com
 
 Particle physicists like speaking in terms of a special kind of diagram called Feynman Diagrams. Below is the Feynman Diagram of the muon decaying to an electron (and releasing some neutrinos in the process)
 
-![Feynmann Diagram(images/photo.png)
+
+![Feynmann Diagram(../images/muondecay_handdrawn-4.jpg)
+
 
 We read these diagrams from left to right, where the initial particle (the muon) is on the left, and the final state particles (the electron and neutrinos) are on the right.
 
