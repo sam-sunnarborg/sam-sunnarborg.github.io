@@ -10,8 +10,10 @@ Take some time to peruse my site! Thanks for stopping by, and please feel free t
 # Relevant Links
 High Energy Experimental Physics @ Brown
 [Website](https://physics.brown.edu/research/elementary-particle-experiment)
+
 The CMS Collaboration @ CERN
 [Website](https://cms.cern/)
+
 Exotica Publications @ CMS
 [Website](https://cms-results.web.cern.ch/cms-results/public-results/publications/EXO/index.html)
 
