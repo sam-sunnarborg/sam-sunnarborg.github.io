@@ -26,7 +26,7 @@ We read these diagrams from left to right, where the initial particle (the muon)
 
 Let's keep the going with the parallels to chemistry. In chemistry you'll often see something like this:
 
-2H_2 + O_2 --> 2H_2O
+$$2H_2 + O_2 \rightarrow 2H_2O$$
 
 where you don't change the number of H's nor the number of O's. You started with 2*2 = 4 H's and 1*2 = 2 O's and you ended with the same 2*2 = 4 H's and 2*1 = 2 O's. Effectively you're just moving the protons and electrons from place to the other, conserving things like mass.
 
@@ -35,7 +35,7 @@ In particle physics we have different rules. Most notably, we don't need to cons
 
 Einstein told us this is in probably the most famous equation ever. But what does it mean?
 
-E = mc^2
+$$E = mc^2$$
 
 Let's day I have a ball of stuff that has a mass of 10. I could do some stuff to make two things of mass 5, no worries. More excitingly, if I can find a way to completely annihilate that ball of stuff I can get an energy of 10 from it leaving no mass behind (no mass can be weird to think of, so try and think of light which carries energy but has no mass). 
 We can go vise versa too! If I have an energy of 10 from that I can make a ball of mass of 10. OR. I can make 2 balls of 5. Or 10 balls of 1. Mass is not something that needs to be conserved in particle physics, just energy. Mass is just a way to store energy, the same way that raising the bowling ball off the ground gives it energy and when you release it that energy can be converted into kinetic energy (energy of motion).
