@@ -41,6 +41,6 @@ We can go vise versa too! If I have an energy of 10 from that I can make a ball 
 
 This is very powerful. If I have a ball of mass of 10 that is stationary I can only make stuff that is 10 or less. BUT. If I get that ball of mass 10 moving at an energy of 5 I can then make something of mass 15! Remember, mass is just stored energy the same way that movement is stored energy. If I get that same ball of mass moving at an energy of 90 I can make something 10x heavier than the thing I am using to make it!
 
-This is the idea behind particle accelerators like the [LHC](Physics101/LHC)!
+This is the idea behind particle accelerators like the [LHC](LHC)!
 
 
