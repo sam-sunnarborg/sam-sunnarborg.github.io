@@ -26,7 +26,7 @@ What something "looks like" in particle physics is described by its physical cha
 In order to "look" at the signal and the background we make histograms of each characteristic. It is the distributions we are interested in and what will help us describe and find the signal we are looking for.
 Sometimes the distributions are very different, and sometimes they are very similar. If there are a few characteristics that are very distinguishing we can simply grab all events in a particular region, as we are confident most of them will be the signal we want. In this analysis, there are no characteristics that are so clear. So instead we use a tool called a Neural Network. This tool takes in as many characteristics as we want, and instead of making simple cuts on characteristics it will instead learn from all of the characteristics at once! It will then output a score on a range from background-like (0) to signal-like (1). Then we can instead grab the region of this score where we are confident there is a lot of signal.
 
-[Neural Networks](images/image.png)
+![Neural Networks](images/GNN_handdrawn-9.jpg)
 
 Here are a few examples of what these histograms of characteristics might look for signal and for background. Notice some distributions look very different between signal and background, and some look very similar. Then notice how different they look after the Neural Network has scored them! Thanks Neural Network!
 
