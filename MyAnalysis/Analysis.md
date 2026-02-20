@@ -15,13 +15,13 @@ The goal of this page is so when I show the real plots at my Preliminary Exam, T
 <span style="color: orange; font-weight: bold;">under development</span>
 
 
-We know the Standard Model has a few missing pieces. One of the most interesting of which is **dark matter**. We don't yet know what dark matter is, but we do know a few things about it.
+We know the [Standard Model](../Physics101/ParticlePhysics.md) has a few missing pieces. One of the most interesting of which is **dark matter**. We don't yet know what dark matter is, but we do know a few things about it.
 1. It has mass and thus experiences gravity
 2. It is not electrically charged and does not interact with light
 3. It is stable and long-lived
 
 From these clues theorists can make guesses as to what dark matter might be. We experimentalists then can go searching through our collision data to try and find the theoretical particle.
-Below I describe what this elusive search looks like at the CMS Experiment.
+Below I describe what this elusive search looks like at the [CMS Experiment](../Physics101/CMS.md).
 
 
 
