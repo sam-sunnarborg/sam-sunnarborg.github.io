@@ -8,9 +8,3 @@ description: |
   [My Analysis](/MyAnalysis/Analysis)
 
   [Particle Physics](/Physics101/ParticlePhysics)
-
-
-header_pages:
-  - index.md
-  - MyAnalysis/Analysis.md
-  - Physics101/ParticlePhysics.md
