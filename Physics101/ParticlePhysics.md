@@ -89,7 +89,7 @@ This is very powerful. If I have a ball of mass of 10 that is stationary I can o
 This is the idea behind particle accelerators like the [LHC](LHC.md)!
 
 
-It is also (kind of) the idea behind the role of the Higgs boson. The Higgs decides how much of a particle's energy needs to be reserved for its mass. And so for an electron the Higgs decided it only needed a little, for the top quark it needed a lot, and it needed none for the photon. That's the idea behind why the photon can (and always) moves at the speed of light, and why the top quark can never move that fast.
+It is also (kind of) the idea behind the role of the Higgs boson. The Higgs decides how much of a particle's energy needs to be reserved for its mass. And so for an electron the Higgs decided it only needed a little, for the top quark it needed a lot, and it needed none for the photon. That's the idea behind why the photon can (and always) moves at the speed of light, and why the top quark (and anything else with a mass) can never move that fast.
 
 
 
