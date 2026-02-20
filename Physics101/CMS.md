@@ -26,7 +26,7 @@ Let's go over the subsystems of CMS.
 
 ### The Tracker
 
-<img src="../images/CMS_trackerdiagram.png" width="45%" /> <img src="../images/CMStracker.jpg" width="45%" />
+<img src="../images/CMS_trackerdiagram.png" width="55%" /> <img src="../images/CMStracker.jpg" width="35%" />
 
 The inner most subsystem is the tracker, the most complicated (and best) subdetector. This subdetector covers the first meter of active material in CMS. The tracker consists of two segmentations: the innermost pixel detector and the outer strip detector. Both of these layers are made up of silicon detectors that look a lot like your phone and are facing the collision point. When a charged particle hits one of the planes an electrical signal is recorded, and as the particle passes through the layers it will leave a trail of hits along its path which we can reconstruct into a track. The entire detecting area of the tracker is about a tennis courts worth of silicon, consisting of 135 million electronic readout channels, but the tracker can pinpoint the position of a particle down to 10 microns (a fraction of the width of a human hair). It also receives the harshest radiation as it is closest to the collision point.
 
