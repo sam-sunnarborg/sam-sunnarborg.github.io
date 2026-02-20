@@ -25,8 +25,16 @@ We read these diagrams from left to right, where the initial particle (the muon)
 
 
 Now in this diagram you'll notice the little squiggle in the middle labeled as W. This is one of our five bosons, the W boson (cleverly named, I know). Bosons are known as "force carriers". It's super weird to think of a force as a particle because you can't hold a force in your hand despite the fact that some of the bosons have mass. So its best to think of these particles as the mediators of forces. So if an electrically charged particle wants to bump into another electrically charged particle, the photon (the carrier of the electromagnetic force, and yes also the particle of light) will help them with that. If an up quark wants to stick to a down quark inside of a pion, the gluon (the strong nuclear force mediator) will glue them together. And finally if a muon wants to decay to an electron (and two neutrinos) or if a proton inside the nucelus of a Uranium atom wants to decay into a neutron (also known as radioactivity), the W (or Z) will help with that. 
+
 We have three fundamental forces in the Standard Model: the electromagentic force (\gamma), the strong nuclear force (g), and the weak nuclear force (W and Z). 
+
 Again, note the absence of gravity (and the graviton, G). Also note the lonely, yellow scalar boson the Higgs. This one isn't associated with one of the fundamental forces, but instead one role of the Higgs is to give particles (including itself) mass. Crazy, I know. I will elaborate a little (but honestly not much because the Higgs Mechanism is a bit crazy) at the end of this page. The Higgs might have other secret jobs, so stay tuned for that in how the Higgs might play a role in [my analysis](../MyAnalysis/Analysis.md).
+
+All of this information can be neatly (though intimidatingly) summarized in one, long, beautiful equation:
+
+<img src="../images/StandardModel_Lagrangian.png" width="60%" />
+
+Held inside is the masses, charges, and interactions of every particle. Much less pretty than the table version I must say.
 
 
 
