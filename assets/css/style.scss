@@ -12,7 +12,9 @@ header {
   width: 25%;
   float: left;
   background-color: lightblue;
-  padding: 20px;
+  padding: 10px;
+  min-height: 100vh;
+  box-sizing: border-box;
 }
 
 section {
