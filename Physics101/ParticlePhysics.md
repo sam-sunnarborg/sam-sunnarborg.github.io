@@ -20,7 +20,7 @@ When talking about these kinds of decays, particle physicists like speaking in t
 
 
 <p align="center">
-  <img src="../images/muondecay_handdrawn-4.jpg" width="60%" />
+  <img src="../images/muondecay_handdrawn-4.jpg" width="80%" />
 </p>
 
 
