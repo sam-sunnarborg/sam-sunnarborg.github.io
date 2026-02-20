@@ -15,13 +15,13 @@ Solenoid: CMS has the most powerful magnet ever made. At a whopping 3.8T this cy
 You should think of CMS as a 14 thousand ton camera that takes photos of the resulting spray of particles from LHC collisions that occur at its center. 
 
 
-![CMS Detector](images/cmsdetector_labeledcutout.png)
+![CMS Detector](../images/cmsdetector_labeledcutout.png)
 
 
 ## How Does CMS "See" Physics?
 Let's go over the subsystems of CMS. 
 
-![CMS Crosssection](images/CMSdetector_crosssection_particles.png)
+![CMS Crosssection](../images/CMSdetector_crosssection_particles.png)
 
 
 ### The Tracker
