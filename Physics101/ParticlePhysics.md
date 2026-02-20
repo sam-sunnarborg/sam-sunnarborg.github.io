@@ -44,7 +44,7 @@ Held inside is the masses, charges, and interactions of every particle. Much les
 
 And just for completeness (and because they're super cool) let's talk briefly about the last row of leptons: neutrinos.
 
-Neutrinos are the lightest massive particles in the Standard Model, probably a few hundred times lighter than the electron. They have no electric charge and barely even interact with matter at all. Physicists like to quote the fact that if you shot a neutrino through solid lead until it finally bumped into something it would travel freely for an entire lightyear. That's a quarter of the way to the nearest star to Earth (aka a long long way).
+Neutrinos are the lightest massive particles in the Standard Model, probably a few hundred times lighter than the electron. They have no electric charge and barely even interact with matter at all. Physicists like to quote the fact that if you shot a neutrino through solid lead until it finally bumped into something it would travel freely for an entire lightyear before finally interacting. That's a quarter of the way to the nearest star to Earth (aka a long long way).
 
 This obviously then makes neutrinos hard to detect since they just pass right through most material without leaving a trace. So hard to detect in fact particle physicists are still just guessing at their mass (see the less than symbol in the Standard Model). So unfortunately at experiments like [CMS](CMS.md) neutrinos are not detected directly. Instead they are just called missing energy. For example, if you see a muon decay into an electron you will have a bit of missing energy. It is that missing stuff that we "identify" as neutrinos. But don't worry, other experiments are designed to actually see neutrinos. 
 
