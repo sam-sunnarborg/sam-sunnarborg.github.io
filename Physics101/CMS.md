@@ -38,8 +38,10 @@ The next two layers are the calorimeters. A calorimeter is a detector used to me
 CMS has two calorimeters, each serving their own distinct purpose. The first is the Electromagnetic Calorimeter (or ECAL). This calorimeter is designed to collect and measure the energy of particles that interact electromagnetically, most notably the electron and the photon. 
 The second is the Hadronic Calorimeter (or HCAL). This calorimeter is designed to collect and measure the energy of composite particles like the proton and pions which pass through the ECAL.
 Both of these subdetectors are designed specifically for the particles they target. 
-The ECAL is made of scintillating crystals which, when an electron or photon pass through, produces light in the crystal which is then read out similar to how electrical signals are. The more energy the incoming particle the more light is produced and thus recorded. The entire ECAL is made up of aorund 60 thousand crystals weighing a total of 100 tons.
-The HCAL is a similar design, but instead of being completely made up of scintillating crystals it is alternating layers of crystal and brass. The density of brass forces particles to interact with it, and the scintillating layers collect the resulting energy. In total the HCAL weighs several hundred tons.
+
+The ECAL (shown on the left) is made of scintillating crystals which, when an electron or photon pass through, produces light in the crystal which is then read out similar to how electrical signals are. The more energy the incoming particle the more light is produced and thus recorded. The entire ECAL is made up of aorund 60 thousand crystals weighing a total of 100 tons.
+
+The HCAL (shown on the right) is a similar design, but instead of being completely made up of scintillating crystals it is alternating layers of crystal and brass. The density of brass forces particles to interact with it, and the scintillating layers collect the resulting energy. In total the HCAL weighs several hundred tons.
 Together these calorimeters collect just about everything that CMS will see, except muons.
 
 
