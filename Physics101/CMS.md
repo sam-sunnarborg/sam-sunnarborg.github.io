@@ -32,7 +32,7 @@ The inner most subsystem is the tracker, the most complicated (and best) subdete
 
 ### The Calorimeters
 
-<img src="../images/CMS_ECAL_2cystalswithdudes.jpg" width="47%" /> <img src="../images/CMS_HCAL_4sectionsanddudes.jpg" width="42%" />
+<img src="../images/CMS_ECAL_2cystalswithdudes.jpg" width="46%" /> <img src="../images/CMS_HCAL_4sectionsanddudes.jpg" width="43%" />
 
 The next two layers are the calorimeters. A calorimeter is a detector used to measure the energy of a particle by forcing the particle to deposit energy within its active volume, collecting it, and reading it out. 
 CMS has two calorimeters, each serving their own distinct purpose. The first is the Electromagnetic Calorimeter (or ECAL). This calorimeter is designed to collect and measure the energy of particles that interact electromagnetically, most notably the electron and the photon. 
