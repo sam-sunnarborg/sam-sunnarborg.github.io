@@ -31,8 +31,9 @@ We have three fundamental forces in the Standard Model: the electromagentic forc
 Again, note the absence of gravity (and the graviton, G). Also note the lonely, yellow scalar boson the Higgs. This one isn't associated with one of the fundamental forces, but instead one role of the Higgs is to give particles (including itself) mass. Crazy, I know. I will elaborate a little (but honestly not much because the Higgs Mechanism is a bit crazy) at the end of this page. The Higgs might have other secret jobs, so stay tuned for that in how the Higgs might play a role in [my analysis](../MyAnalysis/Analysis.md).
 
 All of this information can be neatly (though intimidatingly) summarized in one, long, beautiful equation:
-
-<img src="../images/StandardModel_Lagrangian.png" width="60%" />
+<p align="center">
+  <img src="../images/StandardModel_Lagrangian.png" width="60%" />
+</p>
 
 Held inside is the masses, charges, and interactions of every particle. Much less pretty than the table version I must say.
 
