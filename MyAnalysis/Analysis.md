@@ -4,7 +4,13 @@ layout: default
 ---
 
 # My Analysis
-A search for a dark matter candidate at the CMS Experiment
+## A Search for a Dark Matter Candidate with the CMS Experiment at the LHC
+
+### A Note from Sam:
+Hello friend. This section is of course going to get pretty technical. If you are interested in the details feel free to dive right in and absorb as much as possible. If you are more interested in the pretty pictures that is perfect too! 
+The goal of this page is so when I show the real plots at my Preliminary Exam, Thesis Defense, or on a future paper (fingers crossed) you will recognize them! Per usual, please send me your questions and happy reading!
+
+
 
 We know the Standard Model has a few missing pieces. One of the most interesting of which is dark matter. We don't yet know what dark matter is, but we do know a few things about it.
 1. It has mass and thus experiences gravity
@@ -17,6 +23,10 @@ Below I describe what this elusive search looks like at the CMS Experiment.
 ## Step 0:
 ### The Theorists Tell Us Their Guess
 One idea for dark matter is the existence of a "dark sector". This means that the Standard Model particles we know and love would have dark 
+
+![Dark Sector](../images/darksector_handdrawn.jpg)
+
+
 
 ## Step 1:
 ### What Would The Particle Look Like?
