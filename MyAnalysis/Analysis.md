@@ -32,9 +32,9 @@ One idea for dark matter is the existence of a "dark sector". This means that th
 
 ## Step 1:
 ### What Would The Particle Look Like?
-In order to look for the particle, we need to model what it would look like inside of the CMS Detector. To do this we create computer simulations to model the particle inside our detector. We call this the <span style="color: blue;">signal</span>. This is what we will go searching for. Everything else we call <span style="color: grey;">background</span>. 
+In order to look for the particle, we need to model what it would look like inside of the CMS Detector. To do this we create computer simulations to model the particle inside our detector. We call this the <span style="color: blue; font-weight: bold;">signal</span>. This is what we will go searching for. Everything else we call <span style="color: grey; font-weight: bold;">background</span>. 
 
-What something "looks like" in particle physics is described by its physical characteristics. These include things like its mass, its energy, its speed, its path, etc. The important part of the analysis is finding characteristics that look very particular to the <span style="color: blue;">signal</span> we are looking for, and thus can distinguish it from the <span style="color: grey;">background</span>. 
+What something "looks like" in particle physics is described by its physical characteristics. These include things like its mass, its energy, its speed, its path, etc. The important part of the analysis is finding characteristics that look very particular to the <span style="color: blue; font-weight: bold;">signal</span> we are looking for, and thus can distinguish it from the <span style="color: grey; font-weight: bold;">background</span>. 
 
 In order to "look" at the signal and the background we make histograms of each characteristic. It is the distributions we are interested in and what will help us describe and find the signal we are looking for.
 
@@ -51,7 +51,7 @@ In this analysis, there are no characteristics that are so clear. So instead we 
 ![Neural Networks](../images/GNN_handdrawn-9.jpg)
 
 
-Here are a few examples of what these histograms of characteristics might look for <span style="color: blue;">signal</span> and for <span style="color: grey;">background</span>. Notice some distributions look very different between <span style="color: blue;">signal</span> and <span style="color: grey;">background</span>, and some look very similar. Then notice how different they look after the Neural Network has scored them! Thanks Neural Network!
+Here are a few examples of what these histograms of characteristics might look for <span style="color: blue; font-weight: bold;">signal</span> and for <span style="color: grey; font-weight: bold;">background</span>. Notice some distributions look very different between <span style="color: blue; font-weight: bold;">signal</span> and <span style="color: grey; font-weight: bold;">background</span>, and some look very similar. Then notice how different they look after the Neural Network has scored them! Thanks Neural Network!
 
 
 
