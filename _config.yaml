@@ -1,10 +1,11 @@
 theme: jekyll-theme-minimal
 title: Sam's homepage
+logo: ../images/CMSlogo_outline_color.png
 description: |
   A family friendly introduction to my work!
-  
-  [Home](/)
-  
-  [My Analysis](/MyAnalysis/Analysis)
-  
-  [Particle Physics](/Physics101/ParticlePhysics)
+  <br><br>
+  <a href="/">Home</a><br>
+  <a href="/MyAnalysis/Analysis">My Analysis</a><br>
+  <a href="/Physics101/ParticlePhysics">Particle Physics</a>
+  <br><br>
+  <a href="mailto:samantha_sunnarborg@brown.edu">samantha_sunnarborg@brown.edu</a>
