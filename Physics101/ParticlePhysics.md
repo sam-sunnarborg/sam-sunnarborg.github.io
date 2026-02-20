@@ -6,9 +6,15 @@ layout: default
 # Particle Physics
 ### the context on the successful yet incomplete theory from start to finish
 
+
+## The Standard Model
+
 In the late 1800s chemists were building the periodic table after realizing all these different gases they were studying had a real nice pattern to them. They were organizing them by by weight and valence charge which they realized were a result of these different gases being made up of different numbers of smaller pieces: protons and electrons (and neutrons too). All of the different elements they were discovering were really just combinations of smaller particles. So in the 1900s when physicists were discovering new small particles and organizing them they took inspiration from the chemists a century earlier and realized all of these different particles they were discovering were really just combinations of smaller particles: quarks. They then organized these new smaller particles into our own table: the Standard Model.
 
 ![Standard Model](../images/standardmodel.png)
+
+
+### Quarks and Leptons
 
 Here you should note our friend the electron, a fundamental particle (not made up of other particles) as far as we can tell. You should also note the lack of the proton. The same way you don't see water (H20) on the periodic table, the proton won't appear on the Standard Model. A proton is made of two up quarks and one down quark (uud), similar to how Hydrogen is one proton and one electron. The proton is a composite particle (made of multiple fundamental particles). You can also build the dozens of other composite particles we know of using these quarks in either groups of two like the pion (ud) or three like the proton (uud).
 
@@ -26,6 +32,7 @@ When talking about these kinds of decays, particle physicists like speaking in t
 
 We read these diagrams from left to right, where the initial particle (the muon) is on the left, and the final state particles (the electron and neutrinos) are on the right.
 
+### Bosons
 
 Now in this diagram you'll notice the little squiggle in the middle labeled as W. This is one of our five bosons, the W boson (cleverly named, I know). Bosons are known as "force carriers". It's super weird to think of a force as a particle because you can't hold a force in your hand despite the fact that some of the bosons have mass. So its best to think of these particles as the mediators of forces. So if an electrically charged particle wants to bump into another electrically charged particle, the photon (the carrier of the electromagnetic force, and yes also the particle of light) will help them with that. If an up quark wants to stick to a down quark inside of a pion, the gluon (the strong nuclear force mediator) will glue them together. And finally if a muon wants to decay to an electron (and two neutrinos) or if a proton inside the nucelus of a Uranium atom wants to decay into a neutron (also known as radioactivity), the W (or Z) will help with that. 
 
@@ -38,9 +45,10 @@ All of this information can be neatly (though intimidatingly) summarized in one,
   <img src="../images/StandardModel_Lagrangian.png" width="60%" />
 </p>
 
-Held inside is the masses, charges, and interactions of every particle. Much less pretty than the table version I must say.
+Held inside is the masses, charges, and interactions of every particle. Much less pretty than the table version I must say. It may not be pretty, but this equations describes the most successful theory ever. Take that Newton.
 
 
+### Neutrinos
 
 And just for completeness (and because they're super cool) let's talk briefly about the last row of leptons: neutrinos.
 
@@ -57,7 +65,7 @@ Now here's the awful(ly fun) part. An electron neutrino can also decay UP into a
 Neutrinos are probably my favorite particle for this reason. This is called "neutrino oscillation" or "flavor mixing" and is one of the coolest mechanisms in particle physics. It's the only reason we know neutrinos have mass, and one of the few reasons we have a guess at what that mass is. But sadly CMS is not sensitive to this, so I'll leave that there for now.
 
 
-
+## A Tiny Bit of Relativity
 
 Now let's keep the going with the parallels to chemistry. In chemistry you'll often see something like this:
 
