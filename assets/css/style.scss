@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  width: 100%;
+  max-width: none;
+}
+
+header {
+  width: 25%;
+  float: left;
+}
+
+section {
+  width: 70%;
+  float: right;
+}
