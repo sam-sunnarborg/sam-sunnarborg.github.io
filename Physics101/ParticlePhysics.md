@@ -19,7 +19,10 @@ Also note how we've only talked about the first column. For example it's not com
 When talking about these kinds of decays, particle physicists like speaking in terms of a special kind of diagram called Feynman Diagrams. Below is the Feynman Diagram of the muon decaying to an electron (and releasing some neutrinos in the process)
 
 
-![Feynmann Diagram](../images/muondecay_handdrawn-4.jpg)
+<p align="center">
+  <img src="../images/muondecay_handdrawn-4.jpg" width="60%" />
+</p>
+
 
 We read these diagrams from left to right, where the initial particle (the muon) is on the left, and the final state particles (the electron and neutrinos) are on the right.
 
