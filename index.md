@@ -10,7 +10,7 @@ Take some time to peruse my site! Thanks for stopping by, and please feel free t
 
 ## Pages
 
-[Home](Home/AboutMe.md): a jumping off point
+[Home](index.md): a jumping off point
 
 [Physics 101](Physics101/Physics101.md): an introduction to the cool physics
 
