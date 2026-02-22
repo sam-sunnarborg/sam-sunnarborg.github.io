@@ -4,7 +4,7 @@ layout: default
 ---
 
 # The Large Hadron Collider
-the motivation and technology behind the world's largest machine.
+### the motivation and technology behind the world's largest machine.
 
 ## What is the Large Hadron Collider?
 The Large Hadron Collider (LHC) is a 27 kilometer circumference (17 miles for us Americans) circular particle collider that was build 100 meters underground in Geneva, Switzerland. The collider itself consists of a tube (shown at the top of this page) that contains two beam pipes. One of the beams of particles travels clockwise around the 27km ring, and at the same time the other travels counter-clockwise. They are then directed to collide at one of the four collision points. These collision points are where the magic happens!  
