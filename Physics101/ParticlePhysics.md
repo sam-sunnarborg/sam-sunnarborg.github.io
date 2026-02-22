@@ -72,6 +72,8 @@ Antimatter is an umbrella term, so lets start with an example. Our friend the el
 
 Now probably the coolest thing about antimatter is how it interacts with matter. If you have a ball of electrons in your right hand and you bring it into contact with an equal sized ball of positrons, both balls will completely annihilate each other, and you will get an explosion of energy. We will talk about this more in the next section. 
 
+<br><br>
+
 
 
 ## A Tiny Bit of Relativity
