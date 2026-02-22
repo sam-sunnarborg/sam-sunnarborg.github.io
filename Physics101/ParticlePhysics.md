@@ -91,13 +91,13 @@ Einstein told us this is in probably the most famous equation ever. But what doe
 
 $$E = mc^2$$
 
-Let's day I have a ball of stuff that has a mass of 10. I could do some stuff to make two things of mass 5, no worries. More excitingly, if I can find a way to completely annihilate that ball of stuff I can get an energy of 10 from it leaving no mass behind (no mass can be weird to think of, so try and think of light which carries energy but has no mass). A perfect example of this is the electron-positron annihilation mentioned in the previous section. If I bring an electron into contact with a positron they will completely annihilate each other and we will be left with just energy. And that energy will be exactly the comnination of the masses of the two particles I just annihilated, aka twice the mass of an electron. Here's what that looks like in a Feynman Diagram.
+Let's day I have a ball of stuff that has a mass of 10. I could do some stuff to make two things of mass 5, no worries. More excitingly, if I can find a way to completely annihilate that ball of stuff I can get an energy of 10 from it leaving no mass behind (no mass can be weird to think of, so try and think of light which carries energy but has no mass). A perfect example of this is the electron-positron annihilation mentioned in the previous section. If I bring an electron into contact with a positron they will completely annihilate each other and we will be left with just energy (a photon, aka light). And that energy will be exactly the comnination of the masses of the two particles I just annihilated, aka twice the mass of an electron. Here's what that looks like in a Feynman Diagram.
 
 
 *insert electron-positron annihilation Feynman Diagram here
 
 
-We can go vise versa too! If I have an energy of 10 from that I can make a ball of mass of 10. OR. I can make 2 balls of 5. Or 10 balls of 1. In more physical terms if I have an energy of twice the mass of the electron I can MAKE an electron-positron pair! Just like that! Just read the above Feynman Diagram backwards and you'll see that process in action
+We can go vise versa too! If I have an energy of 10 from that I can make a ball of mass of 10. OR. I can make 2 balls of 5. Or 10 balls of 1. In more physical terms if I have an energy of twice the mass of the electron I can MAKE an electron-positron pair! Just like that! Just read the above Feynman Diagram backwards and you'll see that process in action.
 
 
 But mass is not something that needs to be conserved in particle physics. Only energy needs to be conserved. Mass is just a way to store energy, the same way that raising the bowling ball off the ground gives it energy and when you release it that energy can be converted into kinetic energy (energy of motion, another way the universe can store energy).
