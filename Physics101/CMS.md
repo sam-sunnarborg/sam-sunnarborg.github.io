@@ -57,7 +57,7 @@ The final subdetector in CMS is the muon system. This detector is necessary as m
 
 
 
-
+<br><br>
 
 Together these subsystems record the trajectory, speed, charge, and energy of particles resulting from the collisions occuring at CMS's center. All of these pieces are stitched together to form a cohesive picture of what resulted from each collision, allowing physicists (like me) to search within this sea of physics.
 
