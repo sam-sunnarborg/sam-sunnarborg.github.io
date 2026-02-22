@@ -27,4 +27,4 @@ So what comes out of these collisions? ANYTHING! That's the exciting part!
 The LHC has the ability to collide the quarks inside of the protons (remember protons are composite particles made of three quarks) in a way that completely annihilates them, which can produce just about any particle in the universe! Of course it has to follow a few rules, and you have to have enough speed to create the mass of the thing you want to come out (recall the discussion on turning kinetic energy into mass in the [introduction to particle physics](Physics101/ParticlePhysics.md)). So by getting these particles moving fast enough and colliding them we can create just about any particle in the universe. This is the test bench for discovering new particles!
 
 
-So what kind of things can we study? Take a look at the [CMS](Physics101/CMS.md) page to see what kind of searches we are doing with these collisions at the LHC.
+So what kind of things can we study? Take a look at the [CMS](CMS.md) page to see what kind of searches we are doing with these collisions at the LHC.
