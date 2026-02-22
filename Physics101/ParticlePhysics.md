@@ -16,7 +16,7 @@ In the late 1800s chemists were discovering and studying dozens of chemical elem
 
 ### Quarks and Leptons
 
-Here you should note our friend the electron, a fundamental particle (not made up of other particles) as far as we can tell. You should also note the lack of the proton. The same way you don't see water (H20) on the periodic table, the proton won't appear on the Standard Model. A proton is made of two up quarks and one down quark (uud), similar to how Hydrogen is one proton and one electron. The proton is a composite particle (made of multiple fundamental particles). You can also build the dozens of other composite particles we know of using these quarks in either groups of two like the pion (ud) or three like the proton (uud).
+Here you should note our friend the electron, shown in green sitting with the other leptons. The electron is a fundamental particle (not made up of other particles) as far as we can tell. You should also note the lack of the proton. The same way you don't see water ($H_20$) on the periodic table, the proton won't appear on the Standard Model. A proton is made of two up quarks and one down quark (uud), similar to how Hydrogen is one proton and one electron. The proton is a composite particle (made of multiple fundamental particles). You can also build the dozens of other composite particles we know of using these quarks in either groups of two like the pion (ud) or three like the proton (uud).
 
 
 Also note how we've only talked about the first column. For example it's not common to hear about the muon. There's a good reason for this. The muon has a lifetime on the order of a millionth of a second. This means if there's a muon hanging out in the universe if you check on it a few millionths of a second later you won't have a muon anymore, you'll have an electron. Crazy right! The universe can just decide to change that muon into an electron. It doesn't break any rules. The universe wants to do this because the muon is 200x heavier than the electron and the universe likes to relax down to the lowest energy state. Think of how much harder it is to hold a bowling ball at arms length as compared to a penny. The universe is lazy, so if it is allowed to make its life easier it will. So a muon will decay down into an electron pretty quickly. Even better if you have a tau, the electron's cousin that is 2000x heavier than it, who will live less than a trillinth of a second. The universe doesn't like holding a teenager at arms length. This rule goes for all the particles in the Standard Model. That's why you've heard of a proton but you probably haven't heard much about the sigma particle (uus), the protons heavier and therefore shortly lived cousin. Or why I'll talk about the pion (ud) and not the kaon (us). 
@@ -65,6 +65,15 @@ Now here's the awful(ly fun) part. An electron neutrino can also decay UP into a
 Neutrinos are probably my favorite particle for this reason. This is called "neutrino oscillation" or "flavor mixing" and is one of the coolest mechanisms in particle physics. It's the only reason we know neutrinos have mass, and one of the few reasons we have a guess at what that mass is. But sadly CMS is not sensitive to this, so I'll leave that there for now.
 
 
+### Antimatter
+
+It is also important that I touch on one of the most interestingly named concepts: antimatter. Though it sounds like science fiction, antimatter is very real and very important. 
+Antimatter is an umbrella term, so lets start with an example. Our friend the electron was officially discovered in 1897. About 30 years later, with the development of Quantum Mechanics, it was theorized that an exact copy of the electron but with a positive charge instead of negative could exist. And just four years later it was found: the positron. An exact copy of the electron but with opposite charge, the positron proved the existence of antimatter. But this isn't restricted just to electrons. Every fundamental particle has an antimatter partner. In fact you could make a whole Anti Standard Model if you wanted to. All you have to do is flip the sign on the charge and boom, an anti-muon. Or an anti-up quark. Even an anti-tau neutrino. 
+
+Now probably the coolest thing about antimatter is how it interacts with matter. If you have a ball of electrons in your right hand and you bring it into contact with an equal sized ball of positrons, both balls will completely annihilate each other, and you will get an explosion of energy. We will talk about this more in the next section. 
+
+
+
 ## A Tiny Bit of Relativity
 
 Now let's keep the going with the parallels to chemistry. In chemistry you'll often see something like this:
@@ -80,16 +89,29 @@ Einstein told us this is in probably the most famous equation ever. But what doe
 
 $$E = mc^2$$
 
-Let's day I have a ball of stuff that has a mass of 10. I could do some stuff to make two things of mass 5, no worries. More excitingly, if I can find a way to completely annihilate that ball of stuff I can get an energy of 10 from it leaving no mass behind (no mass can be weird to think of, so try and think of light which carries energy but has no mass). 
-We can go vise versa too! If I have an energy of 10 from that I can make a ball of mass of 10. OR. I can make 2 balls of 5. Or 10 balls of 1. Mass is not something that needs to be conserved in particle physics, just energy. Mass is just a way to store energy, the same way that raising the bowling ball off the ground gives it energy and when you release it that energy can be converted into kinetic energy (energy of motion).
+Let's day I have a ball of stuff that has a mass of 10. I could do some stuff to make two things of mass 5, no worries. More excitingly, if I can find a way to completely annihilate that ball of stuff I can get an energy of 10 from it leaving no mass behind (no mass can be weird to think of, so try and think of light which carries energy but has no mass). A perfect example of this is the electron-positron annihilation mentioned in the previous section. If I bring an electron into contact with a positron they will completely annihilate each other and we will be left with just energy. And that energy will be exactly the comnination of the masses of the two particles I just annihilated, aka twice the mass of an electron. Here's what that looks like in a Feynman Diagram.
+
+
+*insert electron-positron annihilation Feynman Diagram here
+
+
+We can go vise versa too! If I have an energy of 10 from that I can make a ball of mass of 10. OR. I can make 2 balls of 5. Or 10 balls of 1. In more physical terms if I have an energy of twice the mass of the electron I can MAKE an electron-positron pair! Just like that! Just read the above Feynman Diagram backwards and you'll see that process in action
+
+
+But mass is not something that needs to be conserved in particle physics. Only energy needs to be conserved. Mass is just a way to store energy, the same way that raising the bowling ball off the ground gives it energy and when you release it that energy can be converted into kinetic energy (energy of motion, another way the universe can store energy).
 
 
 This is very powerful. If I have a ball of mass of 10 that is stationary I can only make stuff that is 10 or less. BUT. If I get that ball of mass 10 moving at an energy of 5 I can then make something of mass 15! Remember, mass is just stored energy the same way that movement is stored energy. If I get that same ball of mass moving at an energy of 90 I can make something 10x heavier than the thing I am using to make it!
 
+
 This is the idea behind particle accelerators like the [LHC](LHC.md)!
 
+<br><br><br>
 
+
+<p style="font-size: 14px;">
+#### A final note on the Higgs Boson:
 It is also (kind of) the idea behind the role of the Higgs boson. The Higgs decides how much of a particle's energy needs to be reserved for its mass. And so for an electron the Higgs decided it only needed a little, for the top quark it needed a lot, and it needed none for the photon. That's the idea behind why the photon can (and always) moves at the speed of light, and why the top quark (and anything else with a mass) can never move that fast.
-
+</p>
 
 
