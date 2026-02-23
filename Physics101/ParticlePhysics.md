@@ -38,7 +38,7 @@ Now in this diagram you'll notice the little squiggle in the middle labeled as W
 
 We have three fundamental forces in the Standard Model: the electromagentic force (\gamma), the strong nuclear force (g), and the weak nuclear force (W and Z). 
 
-Again, note the absence of gravity (and the graviton, G). Also note the lonely, yellow scalar boson the Higgs. This one isn't associated with one of the fundamental forces, but instead one role of the Higgs is to give particles (including itself) mass. Crazy, I know. I will elaborate a little (but honestly not much because the Higgs Mechanism is a bit crazy) at the end of this page. The Higgs might have other secret jobs, so stay tuned for that in how the Higgs might play a role in [my analysis](../MyAnalysis/Analysis.md).
+Again, note the absence of gravity (and the graviton, G). Also note the lonely, yellow scalar boson the Higgs. This one isn't associated with one of the fundamental forces, but instead one role of the Higgs is to give particles (including itself) mass. Crazy, I know. I won't elaborate on the Higgs Mechanism here, but feel free to look it up or ask me, its pretty cool. The Higgs might also have other secret jobs, so stay tuned for that in how the Higgs might play a role in [my analysis](../MyAnalysis/Analysis.md).
 
 All of this information can be neatly (though intimidatingly) summarized in one, long, beautiful equation:
 <p align="center">
@@ -71,6 +71,10 @@ It is also important that I touch on one of the most interestingly named concept
 Antimatter is an umbrella term, so lets start with an example. Our friend the electron was officially discovered in 1897. About 30 years later, with the development of Quantum Mechanics, it was theorized that an exact copy of the electron but with a positive charge instead of negative could exist. And just four years later it was found: the positron. An exact copy of the electron but with opposite charge, the positron proved the existence of antimatter. But this isn't restricted just to electrons. Every fundamental particle has an antimatter partner. In fact you could make a whole Anti Standard Model if you wanted to. All you have to do is flip the sign on the charge and boom, an anti-muon. Or an anti-up quark. Even an anti-tau neutrino. 
 
 Now probably the coolest thing about antimatter is how it interacts with matter. If you have a ball of electrons in your right hand and you bring it into contact with an equal sized ball of positrons, both balls will completely annihilate each other, and you will get an explosion of energy. We will talk about this more in the next section. 
+
+Now if you're not already asking this question let me pose something to you. Since everything about an electron and a positron (and all matter-antimatter pairs for that matter (or antimatter, pun intended)) is exactly the same except the charge, the universe is just as likely to produce a positron as it is an electron. And since they interact with the universe in the same way, and often get produced together, there would hypothetically be the same amount of positrons as electrons in the universe. If the positron is an exact copy of the electron with only the charge flipped - thus its mass, lifetime, and interactions with other matter are the same - why aren't there atoms like anti-carbon made up of anti electrons with anti-nuclei made up of anti-protons and anti-neutrons? There is theoretically nothing stopping these things from forming since anti-carbon's constituents would interact the same way as carbon's do. So why is there no anti-carbon floating around? Now we remember that if this hypothetical anti-carbon did exists and it ran into a normal carbon they would annihilate. So then maybe the real question is this: if all matter and antimatter is equally likely to exist, why is all of our matter just made up of one kind?
+
+This is one of the largest looming questions in physics. What is the reason for the matter-antimatter asymmetry? Was there an inequality at the start of the universe? Is there some small inequality that breaks the rules we know about that could allow for more matter than antimatter to survive? Stay tuned. We don't yet know.
 
 <br><br>
 
@@ -108,14 +112,23 @@ This is very powerful. If I have a ball of mass of 10 that is stationary I can o
 
 This is the idea behind particle accelerators like the [LHC](LHC.md)!
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
 
-<p style="font-size: 11px;">
-A final note on the Higgs Boson:
 <br>
-It is also (kind of) the idea behind the role of the Higgs boson. The Higgs decides how much of a particle's energy needs to be reserved for its mass. And so for an electron the Higgs decided it only needed a little, for the top quark it needed a lot, and it needed none for the photon. That's the idea behind why the photon can (and always) moves at the speed of light, and why the top quark (and anything else with a mass) can never move that fast.
-</p>
+
+
+
+## A Tiny Bit of Quantum Mechanics
+
+Now before I shuffle you off to the [LHC](LHC.md) and [CMS](CMS.md) pages and onto [My Analysis](../MyAnalysis/Analysis.md) we need to talk briefly about Quantum Mechanics.
+
+Quantum Mechanics (and Quantum Field Theory) are the language of the Standard Model. Quantum Mechanics writes the rule book for how matter behaves, especially down at the smallest scale (aka the scale at which we are talking), and its cardinal rule is that the universe is probabilistic.
+
+In chemistry, when you take hydrogen and oxygen and some energy you can predict exactly what your output will be. In quantum physics, if you collide a quark with an anti-quark and check what the output is you will get a different answer every time. Not only because you have every option available to you, but because each of those options has a different liklihood of happening. Instead of being able to tell you what will happen, physicists are able to tell you the probabilities of each outcome. Quantum Mechanics is able to predict these probabilities straight from the Standard Model.
+
+This "probability of an outcome" in physics is called a cross section. And in particle physics the unit of this probability is called barns. Yes, like the red building storing hay. Think of the cross section as the area of a target you're trying to hit with a baseball from 100 meters away. If you are throwing a ball at one barn, you might hit it. If you're throwing the ball at something the area of 10 barns you dang well shouldn't miss. And if you're throwing it at one trillionth of a barn (a picobarn, the usual scale on which we work), you might need a billion or so tries. 
+
+This same logic applies to the collisions at the LHC. If we are to go looking for a process whose cross section (liklihood of happening) is once in every 75 quadrillion, we should probably try a lot of times. Colliders like the [LHC](LHC.md) are production machines, and give physicists a HUGE pile of hay to go looking for their preferred needle.
+
+
 
 
