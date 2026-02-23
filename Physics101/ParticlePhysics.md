@@ -95,7 +95,7 @@ Einstein told us this is in probably the most famous equation ever. But what doe
 
 $$E = mc^2$$
 
-Let's day I have a ball of stuff that has a mass of 10. I could do some stuff to make two things of mass 5, no worries. More excitingly, if I can find a way to completely annihilate that ball of stuff I can get an energy of 10 from it leaving no mass behind (no mass can be weird to think of, so try and think of light which carries energy but has no mass). A perfect example of this is the electron-positron annihilation mentioned in the previous section. If I bring an electron into contact with a positron they will completely annihilate each other and we will be left with just energy (a photon, aka light). And that energy will be exactly the comnination of the masses of the two particles I just annihilated, aka twice the mass of an electron. Here's what that looks like in a Feynman Diagram.
+Let's day I have a ball of stuff that has a mass of 10. I could do some stuff to make two things of mass 5, no worries. More excitingly, if I can find a way to completely annihilate that ball of stuff I can get an energy of 10 from it leaving no mass behind (no mass can be weird to think of, so try and think of light which carries energy but has no mass). A perfect example of this is the electron-positron annihilation mentioned in the previous section. If I bring an electron into contact with a positron they will completely annihilate each other and we will be left with just energy (a photon, aka light). And that energy will be exactly the combination of the masses of the two particles I just annihilated, aka twice the mass of an electron. Here's what that looks like in a Feynman Diagram.
 
 
 *insert electron-positron annihilation Feynman Diagram here
