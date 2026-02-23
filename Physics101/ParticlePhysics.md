@@ -86,7 +86,7 @@ Now let's keep the going with the parallels to chemistry. In chemistry you'll of
 
 $$2H_2 + O_2 \rightarrow 2H_2O$$
 
-where you don't change the number of H's nor the number of O's. You started with 2*2 = 4 H's and 1*2 = 2 O's and you ended with the same 2*2 = 4 H's and 2*1 = 2 O's. Effectively you're just moving the protons and electrons from place to the other, conserving things like mass.
+where you don't change the number of H's nor the number of O's. You started with 2 * 2 = 4 H's and 1 * 2 = 2 O's and you ended with the same 2 * 2 = 4 H's and 2 * 1 = 2 O's. Effectively you're just moving the protons and electrons from place to the other, conserving things like mass.
 
 
 In particle physics we have different rules. Most notably, we don't need to conserve mass.
