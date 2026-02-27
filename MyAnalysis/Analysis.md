@@ -8,8 +8,8 @@ layout: default
 
 
 ### A Note from Sam:
-Hello friend. This section is of course going to get pretty technical. If you are interested in the details feel free to dive right in and absorb as much as possible. If you are more interested in the pretty pictures that is perfect too! 
-The goal of this page is so when I show the real plots at my Preliminary Exam, Thesis Defense, or on a future paper (fingers crossed) you will recognize them! Per usual, please send me your questions and happy reading!
+Hello friend. This section is of course going to get pretty technical. If you haven't yet read the [particle physics section](../Physics101/ParticlePhysics.md) and you are interested in the details, I recommend perusing that page first. If you are more interested in the pretty pictures that is perfect too, go ahead and jump right in! 
+The goal of this page is mostly recognition: when I show plots or introduce concepts at my Preliminary Exam, Thesis Defense, or on a future paper you will recognize them, or at least heard/seen them before. Per usual, please send me your questions and happy reading!
 
 
 <span style="color: orange; font-weight: bold;">under development</span>
