@@ -15,6 +15,8 @@ The goal of this page is mostly recognition: when I show plots or introduce conc
 <span style="color: orange; font-weight: bold;">under development</span>
 
 
+## Introduction to Dark Matter
+
 We know the [Standard Model](../Physics101/ParticlePhysics.md) has a few missing pieces. One of the most interesting of which is **dark matter**. We don't yet know what dark matter is, but we do know a few things about it.
 1. It has mass and thus experiences gravity
 2. It is not electrically charged and does not interact with light
@@ -25,7 +27,9 @@ Below I describe what this elusive search looks like at the [CMS Experiment](../
 
 
 
-## Step 0: The Theorists Tell Us Their Guess
+## The Search
+
+### Step 0: The Theorists Tell Us Their Guess
 One idea for dark matter is the existence of a "dark sector". This means that the Standard Model particles we know and love would have dark copies, not dissimilar to how Standard Model particles also have antiparticles. In this case instead of changing the charge of particles to make antiparticles, we change how the particle interacts to fit the predictions for dark matter as listed above. This kind of dark matter would occur if a Standard Model particle was allowed to "tunnel" to the dark sector through what is often called a "dark portal". 
 
 ![Dark Sector](../images/darksector_handdrawn.jpg)
@@ -41,7 +45,7 @@ These manifestations are called *Emerging Jets*. We will see Standard Model part
 
 
 
-## Step 1: What Would The Particle Look Like?
+### Step 1: What Would The Particle Look Like?
 In order to look for these Emerging Jets and thus these dark quarks, we need to model in great detail what they would look like inside of the CMS Detector. To do this we create computer simulations to model the particles inside our detector. We call this the <span style="color: blue; font-weight: bold;">signal</span>. This is what we will go searching for. Everything else we call <span style="color: grey; font-weight: bold;">background</span>. 
 
 What something "looks like" in particle physics is described by its physical characteristics. These include things like its mass, its energy, its speed, its path, etc. The important part of the analysis is finding characteristics that look very particular to the <span style="color: blue; font-weight: bold;">signal</span> we are looking for, and thus can distinguish it from the <span style="color: grey; font-weight: bold;">background</span>. 
