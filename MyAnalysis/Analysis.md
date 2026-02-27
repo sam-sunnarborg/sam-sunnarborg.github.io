@@ -30,20 +30,25 @@ Below I describe what this elusive search looks like at the [CMS Experiment](../
 ## The Search
 
 ### Step 0: The Theorists Tell Us Their Guess
-One idea for dark matter is the existence of a "dark sector". This means that the Standard Model particles we know and love would have dark copies, not dissimilar to how Standard Model particles also have antiparticles. In this case instead of changing the charge of particles to make antiparticles, we change how the particle interacts to fit the predictions for dark matter as listed above. This kind of dark matter would occur if a Standard Model particle was allowed to "tunnel" to the dark sector through what is often called a "dark portal". 
+One idea for dark matter is the existence of a "dark sector". This means that the Standard Model (SM) particles we know and love would have dark copies, not dissimilar to how SM particles also have antiparticles. In this case instead of changing the charge of particles to make antiparticles, we change how the particle interacts to fit the predictions for dark matter as listed above. This kind of dark matter would occur if a SM particle was allowed to "tunnel" to the dark sector through what is often called a "dark portal". 
 
 ![Dark Sector](../images/darksector_handdrawn.jpg)
 
-This would allow us to make dark copies of particles we see often in CMS: a dark proton, or a dark pion. This should feel a little familiar at this point. The same way that a muon can turn into an electron with the help of the W boson, a Standard Model up quark could turn into a dark up quark with the help of some other particle. The kicker is these dark particles would not interact with our detector. So then how can we find them if they do exist? The good news is the portal will work both directions, which would allow the dark sector particles to turn back into Standard Model particles which we can then again see in our detector. 
+This would allow us to make dark copies of particles we see often in CMS: a dark proton, or a dark pion. This should feel a little familiar at this point. The same way that a muon can turn into an electron with the help of the W boson, a SM up quark could turn into a dark up quark with the help of some other particle. The kicker is these dark particles would not interact with our detector. So then how can we find them if they do exist? The good news is the portal will work both directions, which would allow the dark sector particles to turn back into SM particles which we can then again see in our detector. 
 
-So in our detector we would see something like the drawing below: some Standard Model quarks (q) would collide, tunnel to the dark sector with the help of the portal (called Z' in this case), and become dark quarks ($\\Q_{dark}$). These dark quarks would then hang out for some time as they travel along, and at some point in time they would tunnel back into Standard Model quarks shown in color.
+So in our detector we would see something like the drawing below: some SM quarks (q) would collide, tunnel to the dark sector with the help of the portal (called Z' in this case), and become dark quarks ($\\Q_{dark}$). These dark quarks would then hang out for some time as they travel along, and at some point in time they would tunnel back into SM quarks shown in color.
 
 ![Emerging Jets](../images/emergingjets_feynmann-4.jpg)
 
-These manifestations are called *Emerging Jets*. We will see Standard Model particles, a gap where they have become dark particles and we cannot see them, and then Standard Model particles again. These particles seem to "emerge" out of something invisible. This is what my analysis will be looking for. 
+These manifestations are called *Emerging Jets*. We will see Standard Model particles, a gap where they have become dark particles and we cannot see them, and then SM particles again. These particles seem to "emerge" out of something invisible. This is what my analysis will be looking for. 
 
 
 <br><br>
+
+Note: I promised here a note on the Higgs boson and its possible role in my analysis. This Z' is a placeholder, we are unsure of what this particle could be. There is a chance that the dark portal, the particle that facilitates SM particles turning into DM particles, is the Higgs boson. Cool!
+
+<br><br><br>
+
 
 
 ### Step 1: What Would The Particle Look Like?
