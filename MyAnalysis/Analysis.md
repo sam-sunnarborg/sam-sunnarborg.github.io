@@ -36,7 +36,7 @@ So in our detector we would see something like the drawing below: some Standard 
 
 ![Emerging Jet](../images/emergingjets_feynmann-4.jpg)
 
-These manifestations are called *Emerging Jets*. We will see Standard Model particles, a gap where they have become dark particles and we cannot see them, and then Standard Model particles again. This is what my analysis will be looking for. 
+These manifestations are called *Emerging Jets*. We will see Standard Model particles, a gap where they have become dark particles and we cannot see them, and then Standard Model particles again. These particles seem to "emerge" out of something invisible. This is what my analysis will be looking for. 
 
 
 
