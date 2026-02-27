@@ -25,17 +25,24 @@ Below I describe what this elusive search looks like at the [CMS Experiment](../
 
 
 
-## Step 0:
-### The Theorists Tell Us Their Guess
-One idea for dark matter is the existence of a "dark sector". This means that the Standard Model particles we know and love would have dark 
+## Step 0: The Theorists Tell Us Their Guess
+One idea for dark matter is the existence of a "dark sector". This means that the Standard Model particles we know and love would have dark copies, not dissimilar to how Standard Model particles also have antiparticles. In this case instead of changing the charge of particles to make antiparticles, we change how the particle interacts to fit the predictions for dark matter as listed above. This kind of dark matter would occur if a Standard Model particle was allowed to "tunnel" to the dark sector through what is often called a "dark portal". 
 
 ![Dark Sector](../images/darksector_handdrawn.jpg)
 
+This is all theoretical at this point, but it should feel a little similar. The same way that a muon can turn into an electron with the help of the W boson, a Standard Model up quark could turn into a dark up quark with the help of some other particle. These dark particles then would follow different rules than Standard Model particles. Most notably, these particles would not interact with our detector. So then how can we find them if they do exist? The portal will work both directions, which would allow the dark sector particles to turn back into Standard Model particles which we can then again see in our detector. 
+
+So in our detector we would see something like the drawing below: some Standard Model quarks (q) would collide, tunnel to the dark sector with the help of the portal (called Z' in this case), and become dark quarks ($Q_dark$). These dark quarks would then hang out for some time as they travel along, and at some point in time they would tunnel back into Standard Model quarks shown in color.
+
+![Emerging Jet](../images/emergingjets_feynmann-4.jpg)
+
+These manifestations are called *Emerging Jets*. We will see Standard Model particles, a gap where they have become dark particles and we cannot see them, and then Standard Model particles again. This is what my analysis will be looking for. 
 
 
-## Step 1:
-### What Would The Particle Look Like?
-In order to look for the particle, we need to model what it would look like inside of the CMS Detector. To do this we create computer simulations to model the particle inside our detector. We call this the <span style="color: blue; font-weight: bold;">signal</span>. This is what we will go searching for. Everything else we call <span style="color: grey; font-weight: bold;">background</span>. 
+
+
+## Step 1: What Would The Particle Look Like?
+In order to look for the particle, we need to model in great detail what it would look like inside of the CMS Detector. To do this we create computer simulations to model the particle inside our detector. We call this the <span style="color: blue; font-weight: bold;">signal</span>. This is what we will go searching for. Everything else we call <span style="color: grey; font-weight: bold;">background</span>. 
 
 What something "looks like" in particle physics is described by its physical characteristics. These include things like its mass, its energy, its speed, its path, etc. The important part of the analysis is finding characteristics that look very particular to the <span style="color: blue; font-weight: bold;">signal</span> we are looking for, and thus can distinguish it from the <span style="color: grey; font-weight: bold;">background</span>. 
 
