@@ -34,7 +34,7 @@ This is all theoretical at this point, but it should feel a little similar. The 
 
 So in our detector we would see something like the drawing below: some Standard Model quarks (q) would collide, tunnel to the dark sector with the help of the portal (called Z' in this case), and become dark quarks ($Q_dark$). These dark quarks would then hang out for some time as they travel along, and at some point in time they would tunnel back into Standard Model quarks shown in color.
 
-![Emerging Jet](../images/emergingjets_feynmann-4.jpg)
+
 
 These manifestations are called *Emerging Jets*. We will see Standard Model particles, a gap where they have become dark particles and we cannot see them, and then Standard Model particles again. These particles seem to "emerge" out of something invisible. This is what my analysis will be looking for. 
 
@@ -42,7 +42,7 @@ These manifestations are called *Emerging Jets*. We will see Standard Model part
 
 
 ## Step 1: What Would The Particle Look Like?
-In order to look for the particle, we need to model in great detail what it would look like inside of the CMS Detector. To do this we create computer simulations to model the particle inside our detector. We call this the <span style="color: blue; font-weight: bold;">signal</span>. This is what we will go searching for. Everything else we call <span style="color: grey; font-weight: bold;">background</span>. 
+In order to look for these Emerging Jets and thus these dark quarks, we need to model in great detail what they would look like inside of the CMS Detector. To do this we create computer simulations to model the particles inside our detector. We call this the <span style="color: blue; font-weight: bold;">signal</span>. This is what we will go searching for. Everything else we call <span style="color: grey; font-weight: bold;">background</span>. 
 
 What something "looks like" in particle physics is described by its physical characteristics. These include things like its mass, its energy, its speed, its path, etc. The important part of the analysis is finding characteristics that look very particular to the <span style="color: blue; font-weight: bold;">signal</span> we are looking for, and thus can distinguish it from the <span style="color: grey; font-weight: bold;">background</span>. 
 
