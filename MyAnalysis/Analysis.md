@@ -56,12 +56,18 @@ For example, maybe your signal has a mass that is only ever 125 while your backg
 This is how the Higgs Boson (mass of 125GeV) was discovered at the LHC in 2012. 
 
 
-In this analysis, there are no characteristics that are so clear. So instead we use a tool called a **Neural Network**. This tool takes in as many characteristics as we want, and instead of making simple cuts on characteristics it will instead learn from all of the characteristics at once! It will then output a score on a range from background-like (0) to signal-like (1). Then we can instead grab the region of this score where we are confident there is a lot of signal.
+So what do we know about our signal, emerging jets? 
+- The emerging jet will be seen some distance away from the collision point
+- The emerging jet will be made up of quarks
+And honestly, that's kind of it...
+
+
+That's not a lot to go on, so it's very hard to make a plot like the Higgs boson did. So instead we use a tool called a **Neural Network**. This tool takes in as many characteristics as we want, and instead of making simple cuts on characteristics (like restricting mass to be 125GeV, or that the jet occurs some distance away) it will instead learn from all of the characteristics at once! It will then output a score on a range from background-like (0) to signal-like (1). Then we can instead grab the region of this score where we are confident there is a lot of signal.
 
 ![Neural Networks](../images/GNN_handdrawn-9.jpg)
 
 
-Here are a few examples of what these histograms of characteristics might look for <span style="color: blue; font-weight: bold;">signal</span> and for <span style="color: grey; font-weight: bold;">background</span>. Notice some distributions look very different between <span style="color: blue; font-weight: bold;">signal</span> and <span style="color: grey; font-weight: bold;">background</span>, and some look very similar. Then notice how different they look after the Neural Network has scored them! Thanks Neural Network!
+Here are a few examples of what these histograms of characteristics might look for <span style="color: blue; font-weight: bold;">signal</span> and for <span style="color: grey; font-weight: bold;">background</span>. Notice some distributions look very different between <span style="color: blue; font-weight: bold;">signal</span> and <span style="color: grey; font-weight: bold;">background</span>, and some look very similar. Then notice how different they look after the Neural Network has scored them! Thanks Neural Network! We can then grab every event that has a really high score as we are very confident that that event is our signal, aka an emerging jet. 
 
 
 
