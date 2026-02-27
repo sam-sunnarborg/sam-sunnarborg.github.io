@@ -34,7 +34,7 @@ This is all theoretical at this point, but it should feel a little similar. The 
 
 So in our detector we would see something like the drawing below: some Standard Model quarks (q) would collide, tunnel to the dark sector with the help of the portal (called Z' in this case), and become dark quarks ($Q_dark$). These dark quarks would then hang out for some time as they travel along, and at some point in time they would tunnel back into Standard Model quarks shown in color.
 
-
+![Emerging Jets](../images/emergingjets_feynmann-4.jpg)
 
 These manifestations are called *Emerging Jets*. We will see Standard Model particles, a gap where they have become dark particles and we cannot see them, and then Standard Model particles again. These particles seem to "emerge" out of something invisible. This is what my analysis will be looking for. 
 
