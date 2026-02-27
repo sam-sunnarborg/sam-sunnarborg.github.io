@@ -32,7 +32,7 @@ One idea for dark matter is the existence of a "dark sector". This means that th
 
 This is all theoretical at this point, but it should feel a little similar. The same way that a muon can turn into an electron with the help of the W boson, a Standard Model up quark could turn into a dark up quark with the help of some other particle. These dark particles then would follow different rules than Standard Model particles. Most notably, these particles would not interact with our detector. So then how can we find them if they do exist? The portal will work both directions, which would allow the dark sector particles to turn back into Standard Model particles which we can then again see in our detector. 
 
-So in our detector we would see something like the drawing below: some Standard Model quarks (q) would collide, tunnel to the dark sector with the help of the portal (called Z' in this case), and become dark quarks ($/Q_{dark}$). These dark quarks would then hang out for some time as they travel along, and at some point in time they would tunnel back into Standard Model quarks shown in color.
+So in our detector we would see something like the drawing below: some Standard Model quarks (q) would collide, tunnel to the dark sector with the help of the portal (called Z' in this case), and become dark quarks ($\Q_{dark}$). These dark quarks would then hang out for some time as they travel along, and at some point in time they would tunnel back into Standard Model quarks shown in color.
 
 ![Emerging Jets](../images/emergingjets_feynmann-4.jpg)
 
