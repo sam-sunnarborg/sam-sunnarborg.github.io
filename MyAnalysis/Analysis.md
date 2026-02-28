@@ -45,7 +45,7 @@ These manifestations are called *Emerging Jets*. We will see Standard Model part
 
 <br><br>
 
-Note: I promised here a note on the Higgs boson and its possible role in my analysis. This Z' is a placeholder, we are unsure of what this particle could be. There is a chance that the dark portal, the particle that facilitates SM particles turning into DM particles, is the Higgs boson. Cool!
+Note: I promised here a note on the Higgs boson and its possible role in my analysis. This Z' is a placeholder, we are unsure of what this particle could be. There is a chance that the dark portal, the particle that facilitates SM particles turning into DM particles, is a Higgs boson. Cool!
 
 <br><br><br>
 
